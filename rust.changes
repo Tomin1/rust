@@ -1,3 +1,6 @@
+* Mon Feb 21 2022 Ruben De Smet <something@example.com> - 1.52.1+git2
+- [rust] Let Cargo obey the SB2_TARGET variable. JB#57427
+
 * Tue May 11 2021 Niels Breet <niels.breet@jolla.com> - 1.52.1+git1
 - [rust] Initial packaging of rust 1.52.1. JB#54225 JOLLA-139
 
